@@ -1,6 +1,8 @@
 Hi 👋 My name is Tatum
 ======================
 
+<img src="https://animalwellnessmagazine.com/wp-content/uploads/Dog-on-beach-with-sunglasses_ThinkstockPhotos-518565035.jpg" alt="Profile pic" width="200" />
+
 IT student
 ----------
 
