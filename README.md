@@ -1,5 +1,5 @@
-Hi 👋 My name is Tatum
-======================
+Hi 👋 My name is Tatum Duthu
+============================
 
 <img src="https://animalwellnessmagazine.com/wp-content/uploads/Dog-on-beach-with-sunglasses_ThinkstockPhotos-518565035.jpg" alt="Profile pic" width="300" />
 
