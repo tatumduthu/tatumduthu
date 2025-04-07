@@ -3,9 +3,8 @@ Hi 👋 My name is Tatum Duthu
 
 <img src="https://animalwellnessmagazine.com/wp-content/uploads/Dog-on-beach-with-sunglasses_ThinkstockPhotos-518565035.jpg" alt="Profile pic" width="300" />
 
-IT student
-----------
 
+* 🏫   I'm a student at the University of North Alabama who is majoring in IT with a concentration in cybersecurity.
 * 🌍  I'm based in Alabama
 * ✉️  You can contact me at [tatumrduthu@gmail.com](mailto:tatumrduthu@gmail.com)
 
