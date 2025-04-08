@@ -7,6 +7,7 @@ Hi 👋 My name is Tatum Duthu
 
 * 🏫   I'm a student at the University of North Alabama who is majoring in IT with a concentration in cybersecurity.
 * 🌍  I'm based in North Alabama
+* 🧠  I'm currently learning about Web Development and IT infrastructure
 * ✉️  You can contact me at [tatumrduthu@gmail.com](mailto:tatumrduthu@gmail.com)
 * 🚀  Here is a <a href="https://tatumduthu.github.io/animated-disco-charlie/">project</a> I made for my web development course that displays a dashbaord of earlier web projects I completed in the course. <a href="https://github.com/tatumduthu/animated-disco-charlie" target="code">code here</a>
 
