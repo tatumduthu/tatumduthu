@@ -1,12 +1,14 @@
 Hi 👋 My name is Tatum Duthu
 ============================
+## IT student at UNA
 
 <img src="https://animalwellnessmagazine.com/wp-content/uploads/Dog-on-beach-with-sunglasses_ThinkstockPhotos-518565035.jpg" alt="Profile pic" width="300" />
 
 
 * 🏫   I'm a student at the University of North Alabama who is majoring in IT with a concentration in cybersecurity.
-* 🌍  I'm based in Alabama
+* 🌍  I'm based in North Alabama
 * ✉️  You can contact me at [tatumrduthu@gmail.com](mailto:tatumrduthu@gmail.com)
+* 🚀  Here is a <a href="https://tatumduthu.github.io/animated-disco-charlie/">project</a> I made for my web development course that displays a dashbaord of earlier web projects I completed in the course. <a href="https://github.com/tatumduthu/animated-disco-charlie" target="code">code here</a>
 
 ### Skills
 
@@ -18,4 +20,12 @@ Hi 👋 My name is Tatum Duthu
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/tatumduthu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.codepen.io/tatumduthu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/tatumduthu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tatumduthu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/tatumduthu"><img src="https://github-readme-stats.vercel.app/api?username=tatumduthu&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tatumduthu's GitHub stats" /></a>
