@@ -2,7 +2,7 @@ Hi 👋 My name is Tatum Duthu
 ============================
 ## IT student at UNA
 
-<img src="https://animalwellnessmagazine.com/wp-content/uploads/Dog-on-beach-with-sunglasses_ThinkstockPhotos-518565035.jpg" alt="Profile pic" width="300" />
+<img src="https://animalwellnessmagazine.com/wp-content/uploads/Dog-on-beach-with-sunglasses_ThinkstockPhotos-518565035.jpg" alt="Profile pic" width="500" />
 
 
 * 🏫   I'm a student at the University of North Alabama who is majoring in IT with a concentration in cybersecurity.
